@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+forecasting_net_prophet copy.ipynb
 # Distribution / packaging
 .Python
 build/
